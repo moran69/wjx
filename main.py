@@ -89,7 +89,7 @@ def monitor_survey():
                 message = f"📊 问卷分析报告 ({current_time})\n使用模型: gpt-4o\n\n{analysis}"
                 bot.send_message(message)
             
-            # 等待30分钟
+            # 定时30分钟，循环运行
             time.sleep(1800)
             
     except KeyboardInterrupt:
