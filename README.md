@@ -61,6 +61,7 @@ python main.py
  ```
 # **贡献**
 欢迎提交问题和拉取请求。请在提交前阅读 贡献指南。
+感谢[神墨大佬](https://linux.do/u/smnet/summary)提供的公益API服务
 
 # **许可证**
 本项目采用 MIT 许可证，详情请参阅 LICENSE 文件。
