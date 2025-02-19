@@ -37,7 +37,7 @@
     在 `config/settings.py` 中配置以下信息：  
 
     - **Telegram Bot Token**： 在 [BotFather](https://core.telegram.org/bots#botfather) 创建一个新的 Telegram 机器人，并获取 Token。  
-    - **Telegram Chat ID**： 获取您的 Telegram Chat ID。  
+    - **Telegram Chat ID**： 获取您的 [Telegram Chat ID](https://telegramcnweb.com/post/telegram%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96chat-id/)。  
     - **问卷 URL**： 设置您要监控的问卷的 URL。  
 
     示例配置：  
