@@ -46,8 +46,8 @@
     示例配置：  
 
     ```python
-    TELEGRAM_BOT_TOKEN = 'your_telegram_bot_token'
-    TELEGRAM_CHAT_ID = 'your_telegram_chat_id'
+    TELEGRAM_BOT_TOKEN = '965940462:AAF4VHCv3Fyg04zA32***************'
+    TELEGRAM_CHAT_ID = '-1002451041509'
     QUESTIONNAIRE_URL = 'https://www.wjx.cn/report/302104735.aspx?njjc=1'
     ```
 
