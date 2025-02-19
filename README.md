@@ -1,5 +1,6 @@
 # wjx
 实时跟踪问卷星所发放问卷的数据，并调用ai智能总结当前结果
+![image](https://github.com/user-attachments/assets/e53e9c8b-c290-463b-989d-456fdf2138db)
 
 # 问卷监控工具
 
